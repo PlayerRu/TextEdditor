@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace TecstAddetor
 {
-    public partial class Form1 : Form
+    public partial class F_TextEditor : Form
     {
-        public Form1()
+        public F_TextEditor()
         {
             InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

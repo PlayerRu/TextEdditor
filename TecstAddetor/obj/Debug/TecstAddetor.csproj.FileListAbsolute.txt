@@ -1,0 +1,10 @@
+C:\Users\Win10m\source\repos\TecstAddetor\TecstAddetor\bin\Debug\TecstAddetor.exe.config
+C:\Users\Win10m\source\repos\TecstAddetor\TecstAddetor\bin\Debug\TecstAddetor.exe
+C:\Users\Win10m\source\repos\TecstAddetor\TecstAddetor\bin\Debug\TecstAddetor.pdb
+C:\Users\Win10m\source\repos\TecstAddetor\TecstAddetor\obj\Debug\TecstAddetor.csproj.AssemblyReference.cache
+C:\Users\Win10m\source\repos\TecstAddetor\TecstAddetor\obj\Debug\TecstAddetor.F_TextEditor.resources
+C:\Users\Win10m\source\repos\TecstAddetor\TecstAddetor\obj\Debug\TecstAddetor.Properties.Resources.resources
+C:\Users\Win10m\source\repos\TecstAddetor\TecstAddetor\obj\Debug\TecstAddetor.csproj.GenerateResource.cache
+C:\Users\Win10m\source\repos\TecstAddetor\TecstAddetor\obj\Debug\TecstAddetor.csproj.CoreCompileInputs.cache
+C:\Users\Win10m\source\repos\TecstAddetor\TecstAddetor\obj\Debug\TecstAddetor.exe
+C:\Users\Win10m\source\repos\TecstAddetor\TecstAddetor\obj\Debug\TecstAddetor.pdb
