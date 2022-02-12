@@ -44,5 +44,9 @@ namespace TecstAddetor
                 rtb_Edditor.Text = restext.Remove(restext.Length - 1);
             }
         }
+        private void mb_SaveFile_Click(object sender,EventArgs e)
+        {
+            fileEditor.WriteFile(rtb_Edditor.Text);
+        }
     }
 }

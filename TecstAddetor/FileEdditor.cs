@@ -38,6 +38,25 @@ namespace TecstAddetor
             return lines;
 
         }
+        void Writetext(string text)
+        {
+            StreamWriter sw = new StreamWriter(filePath);
+            sw.WriteLine(text);
+            sw.Close();
+        }
+        public void WriteFile(string text)
+        {
+            try
+            {
+                Writetext(text);
+
+            }
+            catch(Exception e)
+
+            {
+                MessageBox.Show("Exception:" + e.Message);
+            }
+        }
 
 
 
